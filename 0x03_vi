@@ -1,0 +1,15 @@
+Write the answer into the file
+/root/0x03_vi/inserting
+root@hex:~# ls -l /root/0x03_vi/inserting -rw-r--r-- 1 root root 2 Nov 11 04:34 /root/0x03_vi/inserting root@hex:~#
+Write the answer into the file 
+/root/0x03_vi/cutting
+Write the answer into the file
+ /root/0x03_vi/pasting
+Write the answer into the file
+ /root/0x03_vi/undoing
+Write the answer into the file
+ /root/0x03_vi/exiting
+Write the answer into the file 
+/root/0x03_vi/beginning_of_the_line
+Write the answer into the file
+ /root/0x03_vi/end_of_the_line
